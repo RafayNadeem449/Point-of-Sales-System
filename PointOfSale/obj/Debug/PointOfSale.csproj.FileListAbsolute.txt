@@ -1,0 +1,6 @@
+c:\users\f2020065146\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+c:\users\f2020065146\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csprojResolveAssemblyReference.cache
+c:\users\f2020065146\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+c:\users\f2020065146\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+c:\users\f2020065146\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+c:\users\f2020065146\documents\visual studio 2013\Projects\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb
